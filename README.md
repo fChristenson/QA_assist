@@ -5,6 +5,9 @@
 Script to help out with filling in form input fields with test data
 ## Usage
 
+Copy paste the bookmarklet and add it as the url of a bookmark in your browser.
+To start it simply click the bookmark when you are on the webpage you want to use it on.
+
 Keymap: 
 * n: Random name
 * c: Random creditcard number
