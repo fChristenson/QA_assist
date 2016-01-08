@@ -3,6 +3,18 @@
 ## Description
 
 Script to help out with filling in form input fields with test data
+## Usage
+
+Keymap: 
+* n: Random name
+* c: Random creditcard number
+* p: Random phone number
+* a: Random address
+* e: Radom email
+* z: Random zip code
+* t: Random town
+* s: Random street
+* i: Random string
 
 ## Bookmarklet
 
