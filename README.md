@@ -18,6 +18,7 @@ Keymap:
 * t: Random town
 * s: Random street
 * i: Random string
+* esc: Stop QA assist
 
 ## Bookmarklet
 
